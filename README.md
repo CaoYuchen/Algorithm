@@ -1,7 +1,7 @@
 # Algorithm
 
 
-Code for Algorithm course, includes:
+**Code for Algorithm course, includes:**
 
   Eight Queen Problem
   
